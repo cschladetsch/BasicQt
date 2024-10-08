@@ -25,7 +25,7 @@ Ensure you have the following installed on your system:
 1. Clone this repository and navigate to the project directory:
 
     ```bash
-    git clone <repo_url>
+    git clone git@github.com:cschladetsch/BasicQt.git
     cd BasicQtApp
     ```
 
