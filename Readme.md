@@ -2,6 +2,10 @@
 
 **BasicQtApp** is a simple GUI application built with Qt5 and C++23. The application demonstrates a basic interface with a text field and a button, using modern C++23 features such as `std::format`.
 
+## Sample
+
+![image](resources/Untitled.jpg)
+
 ## Features
 
 - **Qt5 Widgets:** The application uses Qt5 for its graphical interface.
